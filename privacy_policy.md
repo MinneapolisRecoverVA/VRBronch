@@ -61,6 +61,8 @@ VR Bronchoscopy is intended for medical and educational users and is **not direc
 
 If you have any questions about this privacy policy or our data practices, please contact us at:
 
-**[Your Company Name]**
-**Email:** [Your Support Email Address]
-**Website/URL for Policy:** [The full URL where this policy is hosted]
+**VA RECOVER CENTER**
+
+**Email:** recover.va.development.team@gmail.com
+
+**Website/URL for Policy:** (https://github.com/MinneapolisRecoverVA/VRBronch/edit/main/privacy_policy.md)
